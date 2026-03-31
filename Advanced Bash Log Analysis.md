@@ -1,4 +1,4 @@
-# Advanced Bash Log Analysis
+# Bash Log Analysis
  
 ### awk — Field Extraction
  
