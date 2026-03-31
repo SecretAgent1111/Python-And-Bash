@@ -1,5 +1,3 @@
-Conditions
- 
 ### What are Conditions?
  
 Conditions are decision-making logic in code. In SOC terms: if something suspicious happens, raise an alert; otherwise, ignore it.
